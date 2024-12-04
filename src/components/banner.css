@@ -1,7 +1,12 @@
-
 .banner-background-image {
-    background-image: url('/public/assets/Element.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
+  background-image: url("/public/assets/Element.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .banner-background-image {
+    background-image: url("/public/assets/Element-mobile.png");
+  }
 }

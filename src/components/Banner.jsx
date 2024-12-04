@@ -6,12 +6,12 @@ function Banner() {
   return (
     <section className="2xl:h-[829px] xl:h-[656px] lg:h-[641px] h-[1051px] bg-[#043873] items-center flex w-full ">
       <div className="banner-background-image">
-        <Container classes="2xl:h-[547px] xl:h-[433px] lg:h-[422px] flex flex-col lg:flex-row items-center">
+        <Container classes="2xl:h-[547px] xl:h-[433px] lg:h-[422px] flex flex-col lg:flex-row items-center space-y-[100px] lg:space-y-0">
           <div className="lg:w-[656px] w-full">
-            <h1 className="text-white text-[64px] leading-[77px]">
+            <h1 className="text-white lg:text-[64px] lg:leading-[77px] text-[54px] leading-[65px]">
               Get More Done with whitepace
             </h1>
-            <p className="text-white text-lg pt-6">
+            <p className="text-white text-lg pt-6 leading-[30px]">
               Project management software that enables your teams to
               collaborate, plan, analyze and manage everyday tasks
             </p>

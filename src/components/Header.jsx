@@ -24,7 +24,7 @@ function Header() {
               </div>
             ))}
           </div>
-          <div className="pl-[60px] flex flex-row items-center space-x-6">
+          <div className="2xl:pl-[60px] xl:pl-[75px] flex flex-row items-center space-x-6">
             <button className="hidden lg:block h-[60px] w-[126px] bg-[#FFE492] rounded-lg text-[#043873] text-lg">
               Login
             </button>
