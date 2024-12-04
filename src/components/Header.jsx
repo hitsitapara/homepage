@@ -7,7 +7,7 @@ function Header() {
     <Container classes="bg-[#043873]">
       <nav className=" min-w-full h-[92px] py-4 flex justify-between items-center">
         <img
-          src="/assets/Logo.png"
+          src="./assets/Logo.png"
           alt="White space logo"
           className="md:w-[191px] md:h-[34px] w-[134px] h-6"
         />
