@@ -8,7 +8,7 @@ function Footer() {
         <div className="flex flex-row space-x-[100px] justify-between">
           <div className="max-w-[170px]">
             <img
-              src="/assets/Logo.png"
+              src="./assets/Logo.png"
               alt="White space logo"
               className="w-[191px] h-[34px]"
             />
@@ -44,7 +44,7 @@ function Footer() {
               <div className="flex flex-row items-center justify-center space-x-2.5">
                 <span>Start today</span>
                 <img
-                  src="/assets/side-arrow.png"
+                  src="./assets/side-arrow.png"
                   alt="left side arrow"
                   className="w-2.5 h-2.5"
                 />
@@ -56,10 +56,10 @@ function Footer() {
         <div className="text-base flex flex-row justify-between items-center">
           <div className="flex flex-row items-center space-x-[60px]">
             <div className="flex flex-row space-x-2 items-center">
-              <img src="/assets/network.png" alt="network" />
+              <img src="./assets/network.png" alt="network" />
               <span>English</span>
               <img
-                src="/assets/down-arrow.png"
+                src="./assets/down-arrow.png"
                 alt="down arrow"
                 className="w-2 h-2"
               />
@@ -72,19 +72,19 @@ function Footer() {
           <div className="flex flex-row space-x-[32px] items-center">
             <a href="">
               <img
-                src="/assets/facebook.png"
+                src="./assets/facebook.png"
                 alt="Facebook icon"
               />
             </a>
             <a href="">
               <img
-                src="/assets/Twitter.png"
+                src="./assets/Twitter.png"
                 alt="Twitter icon"
               />
             </a>
             <a href="">
               <img
-                src="/assets/Linkedin.png"
+                src="./assets/Linkedin.png"
                 alt="Linkedin icon"
               />
             </a>

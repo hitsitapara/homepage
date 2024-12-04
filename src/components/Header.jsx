@@ -17,7 +17,7 @@ function Header() {
               <div key={menu} className="flex space-x-5 items-center">
                 <span className="text-white text-lg">{menu}</span>
                 <img
-                  src="/assets/down-arrow.png"
+                  src="./assets/down-arrow.png"
                   alt="drop down arrow"
                   className="w-[9px] h-[4px]"
                 />
@@ -32,7 +32,7 @@ function Header() {
               <div className="flex flex-row items-center justify-center space-x-2.5">
                 <span> Try Whitepace free</span>
                 <img
-                  src="/assets/side-arrow.png"
+                  src="./assets/side-arrow.png"
                   alt="left side arrow"
                   className="w-2.5 h-2.5"
                 />
@@ -40,7 +40,7 @@ function Header() {
             </button>
             <button className="xl:hidden block">
               <img
-                src="/assets/hum-menu.png"
+                src="./assets/hum-menu.png"
                 alt="menu icon"
                 className="w-[42px] h-6"
               />

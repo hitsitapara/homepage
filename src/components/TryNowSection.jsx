@@ -18,7 +18,7 @@ function TryNowSection() {
               <div className="flex flex-row items-center justify-center space-x-2.5">
                 <span> Try Whitepace free</span>
                 <img
-                  src="/assets/side-arrow.png"
+                  src="./assets/side-arrow.png"
                   alt="left side arrow"
                   className="w-2.5 h-2.5"
                 />
@@ -26,9 +26,9 @@ function TryNowSection() {
             </button>
             <p className="text-[24px] text-white mt-10">On a big team? Contact sales</p>
             <div className="flex space-x-10 pt-10">
-                <img src="/assets/apple-black-logo.png" alt="apple logo" />
-                <img src="/assets/windows-logo.png" alt="window logo" />
-                <img src="/assets/android-logo.png" alt="android logo" />
+                <img src="./assets/apple-black-logo.png" alt="apple logo" />
+                <img src="./assets/windows-logo.png" alt="window logo" />
+                <img src="./assets/android-logo.png" alt="android logo" />
             </div>
           </div>
         </div>

@@ -37,7 +37,7 @@ function PlanSection() {
                   key={description}
                 >
                   <img
-                    src="/assets/Icon.png"
+                    src="./assets/Icon.png"
                     alt="tick icon"
                     className="w-[18px] h-[18px]"
                   />
@@ -66,7 +66,7 @@ function PlanSection() {
                   key={description}
                 >
                   <img
-                    src="/assets/golden-icon.png"
+                    src="./assets/golden-icon.png"
                     alt="tick icon"
                     className="w-[18px] h-[18px]"
                   />
@@ -93,7 +93,7 @@ function PlanSection() {
                   key={description}
                 >
                   <img
-                    src="/assets/Icon.png"
+                    src="./assets/Icon.png"
                     alt="tick icon"
                     className="w-[18px] h-[18px]"
                   />

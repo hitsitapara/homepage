@@ -19,14 +19,14 @@ function Banner() {
               <div className="flex flex-row items-center justify-center space-x-2.5">
                 <span> Try Whitepace free</span>
                 <img
-                  src="/assets/side-arrow.png"
+                  src="./assets/side-arrow.png"
                   alt="left side arrow"
                   className="w-2.5 h-2.5"
                 />
               </div>
             </button>
           </div>
-          <img src="/assets/Image-container.png" alt="banner" className="2xl:h-[549px] xl:h-[456px] lg:h-[350px] h-[367px]" />
+          <img src="./assets/Image-container.png" alt="banner" className="2xl:h-[549px] xl:h-[456px] lg:h-[350px] h-[367px]" />
         </Container>
       </div>
     </section>
